@@ -1,0 +1,57 @@
+div.container {
+    background-color: #ecfdf5;
+    padding: 20px 18px 10px 18px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 20px;
+    color: #10b981;
+}
+
+p {
+    font-weight: 400;
+    font-size: 15px;
+    color: #6b7280;
+}
+
+p.play-game{
+    font-size: 20px;
+    color: #2b283a;
+}
+
+span {
+    color: #5def92;
+    font-size: 18px;
+    line-height: 10px;
+}
+
+div.flex {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+div.flex-btn {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: #273549;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 12.2px;
+    color: #5def92;
+    border: none;
+}
